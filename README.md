@@ -1,5 +1,5 @@
 # michael-thammavong.github.io
-<h3>Welcome to my personal project page.</h3>
+<h3>Welcome to my personal portfolio project page.</h3>
 
 01/2025 - 04/2025
 <p>Currently working on a virtualization home-lab on my linux machine using QEUM/KVM and Windows server 2022.</p> 
