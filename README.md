@@ -16,23 +16,23 @@ Virtual Machines
 4. Win10pro
 5. Win11pro
 
-Connecting them to my local domain server
-1. Requires alot research after running into errors with different linux commands until it gets connected to windows server. 
-2. Same process with windows computer that requires researches on how to connect a windows computer client the domain server. 
-3. Learn that proper software depencies for both windows and linux must be installed prior or you cannot connect to the server network. 
+Connecting these operating systems to local domain server:
+1. Requires alot of searches for the right linux commands that would work to connect client computer to windows server. 
+2. Same process with windows computer that requires searches on how to connect a windows computer client to the domain server. 
+3. Learn how to properly install the right software depencies for both windows and linux that are requires for connection to the server network. 
 
 ----------------------------------------------------
 Grub bootloader  (linux partition as /boot/efi)
 Windows bootloader
 1. How to change the orders when rebooting and startup operating systems.
-2. Using linux commands for fedora, ubuntu when updating changes are made.
-3. After running into a few errors I foud some solutions with google and youtube video's that I was able correct my boot process. 
+2. Using linux commands for fedora, ubuntu when updating and changes are made.
+3. After few errors were notice I foud some solutions with google and youtube video's searches that helps to correct my boot process. 
 
-I understand the basics of how and why its important to document your solutions and reference it later or bookmark the website links.
+I understand the importants to document your solutions, and use it as reference later or utilized the website to bookmark it.
 --------------------------------------------------
-This was also a learning curve about partitions and know the correct partitions for your operating systems and amount of space to allocate for your desktop or laptop.  
+There were some learning curve about partitions and you must allocate the correct partitions for your operating systems for your desktop or laptop.  
 
-This is my layout of my laptop partitions currently installed with the operating systems. The partition disks for linux and windows format 
+The layout of my laptop partitions currently installed with the operating systems. The partition disks for linux and windows format: 
 1. ext4 (linux)
 2. ntfs (windows)
 
