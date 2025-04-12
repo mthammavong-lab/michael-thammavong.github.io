@@ -31,7 +31,7 @@ I understand the importants to document your solutions, and use it as reference 
 --------------------------------------------------
 There were some learning curve about partitions and allocating the correct partitions for my laptop.  
 
-The layout of my laptop partitions currently installed with the operating systems. The partition disks for linux and windows format: 
+The layout of my laptop partitions currently installed operating systems. The partition disks for linux and windows format: 
 1. ext4 (linux)
 2. ntfs (windows)
 
